@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row>*{
+    padding: 0 !important;
+    margin: 0  !important;
+}
+.Home {
+    margin-top: 7rem;
+    margin-left: 20%;
+}
